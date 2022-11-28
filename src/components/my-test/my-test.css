@@ -1,0 +1,7 @@
+:host {
+  display: block;
+  padding: 24px;
+  margin: 24px;
+  font-size: 2rem;
+  border: 2px solid deeppink;
+}
